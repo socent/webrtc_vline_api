@@ -1,3 +1,3 @@
 require "sinatra"
-get "/chat" do erb :index
+	get "/chat" do erb :index
 end
